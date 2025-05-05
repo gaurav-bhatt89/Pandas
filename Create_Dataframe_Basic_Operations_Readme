@@ -1,8 +1,0 @@
-Python Code
-```
-## pd.DataFrame - this 'DataFrame' class will help us create a DataFrame using the data 
-## Since we are creating a table of 5 rows and 5 columns, we will have to specify the column and index titles
-## Finally we are assigning the output of entire code to the variable 'df' which will be out dataframe
-df = pd.DataFrame(randn(5,5),columns=['V','W','X','Y','Z'],index=['A','B','C','D','E'])
-
-```
