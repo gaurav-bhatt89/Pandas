@@ -1,6 +1,6 @@
-# This below Python code executed in Jupyter Notebook [Anaconda Navidator](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.anaconda.com/products/navigator&ved=2ahUKEwiT5K_m_IuNAxWce_UHHVooNSwQFnoECBkQAQ&usg=AOvVaw2FiVm4Knmhe7xplbtYwLdO) 
+# This below Python code executed in Jupyter Notebook by [Anaconda Navigator](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.anaconda.com/products/navigator&ved=2ahUKEwiT5K_m_IuNAxWce_UHHVooNSwQFnoECBkQAQ&usg=AOvVaw2FiVm4Knmhe7xplbtYwLdO) 
 ## We will learn to 
-  1. Create a data frame using NumPy Random function
+  1. Create a data frame using [NumPy](https://numpy.org/) Random function
   2. Perform various logical and numerical operations
 
 ### GitHub Notebook - [Link](https://github.com/gaurav-bhatt89/Pandas/blob/main/Create_Dataframe_Basic_Operations.ipynb)
