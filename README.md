@@ -5,7 +5,8 @@
 |  __/ ___ \| |\  | |_| / ___ \ ___) |
 |_| /_/   \_\_| \_|____/_/   \_\____/ 
 ```
-**NOTE: Each ``.ipynb`` Python file has a corresponding ``.py`` and a ``README.md`` file which takes the user through each step along with notes. Make sure to refer to it for better understanding**
+**NOTE: Each ``.ipynb`` Python file has a corresponding  ``README.md`` file which takes the user through each step along with notes. Make sure to refer to it for better understanding.
+I have also included corresponding ``.py`` and ``.html`` version of each ``.ipynb`` file for reference**
 
 Pandas is a Python library primarily used for data analysis and manipulation. It offers data structures like Series (one-dimensional) and DataFrames (two-dimensional) that are built upon NumPy arrays, providing efficient ways to handle and analyze structured data. This functionality makes Pandas a powerful tool for tasks ranging from data cleaning and transformation to statistical analysis and visualization.
 Key Features:
