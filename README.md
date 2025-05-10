@@ -21,4 +21,4 @@ Key Features:
 
 **Integration:** Pandas integrates well with other Python libraries like NumPy and Matplotlib, enhancing its capabilities for scientific computing and visualization.
 
-**Input/Output:** It supports reading and writing data from various file formats, including CSV, Excel, SQL databases, and more.
+**Input/Output:** It supports reading and writing data from various file formats, including CSV, Excel, SQL databases, and more 
